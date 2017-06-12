@@ -3,9 +3,15 @@ package summerCamp;
 public class Day2 {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String[] t = {"hello", "what"};
-		System.out.println(t.toString());
+		// array example
+		String[] stringArray = {"hello", "this", "is", "an", "array"};
+		
+		System.out.println(stringArray[0]); // prints hello
+		System.out.println(stringArray.length); // prints 5
+		
+		for(int i = 0; i < 5; i++) {
+			
+		}
 	}
 	
 	/**
