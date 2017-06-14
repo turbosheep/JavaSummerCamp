@@ -10,8 +10,10 @@ public class Day2 {
 		System.out.println(stringArray.length); // prints 5
 		
 		for(int i = 0; i < 5; i++) {
-			
+			System.out.println(i);
 		}
+		
+		
 	}
 	
 	/**
