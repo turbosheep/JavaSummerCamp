@@ -20,21 +20,21 @@ Day 2:
 Day 3:
 
 - OOP
--- Member variables
--- Inheritance
--- protected vs public vs private
--- more methods
+ - Member variables
+ - Inheritance
+ - protected vs public vs private
+ - more methods
 - Implement character, player, enemy, vampire together, let them develop other enemy types
 - fill in GameTester class to play game on command line
 
 Day 4:
 
 - start developing GUI for game
--- window
--- frame
--- buttons
--- panels
---- updating health when healing/taking damage
+ - window
+ - frame
+ - buttons
+ - panels
+  - updating health when healing/taking damage
 
 Day 5:
 
